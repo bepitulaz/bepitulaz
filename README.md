@@ -4,13 +4,12 @@ My name is Asep and I live in Bali, Indonesia. I'm a web developer and an indie 
 
 #### 🔭 My products
 
-- [Odiolab](https://odiolab.com) a SaaS to convert audio files into a written text (transcription).
 - [Tania](https://usetania.org) an open source farm management software.
 
 #### ⚡ My favourite tech stack
 
 - Ruby and Ruby on Rails
-- JavaScript, mostly in Stimulus.js
+- JavaScript, mostly in Stimulus.js and React.
 - WordPress
 - PostgreSQL
 - Heroku
