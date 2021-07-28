@@ -2,33 +2,39 @@
 
 My name is Asep and I live in Bali, Indonesia. I'm a web developer and an indie hacker.
 
+### 🎯 Current focus
+
+Working on making [the immigration and relocation process] easy.
+
 #### 🔭 My products
 
 - [Tania](https://usetania.org) an open source farm management software.
 
-#### ⚡ My favourite tech stack
+#### ⚡ My favourite programming languages
 
-- Ruby and Ruby on Rails
-- JavaScript, mostly in Stimulus.js and React.
-- WordPress
-- PostgreSQL
-- Heroku
-- AWS
-
-#### 🌱 But, I'm also tinkering with this stuff
-
+- Ruby
 - Rust
-- Golang
+- JavaScript (I have a mixed feeling with this one 🤭)
+- TypeScript
 - Common Lisp
-- Azure
-- Arduino
-- ESP32
-- Python
+
+#### 🌱 Areas of programming that I love to learn
+
+- Web development
+- Embedded system and IoT
+- Programmable music 🎶🎶
 
 #### 📫 You can contact me at
 - Twitter: https://twitter.com/bepitulaz
 - LinkedIn: https://www.linkedin.com/in/asepbagja
+
+### Fun facts of my Github
+![Asep's Stats](https://github-readme-stats.vercel.app/api?username=bepitulaz&show_icons=true)
+
+![Asep's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bepitulaz&theme=blue-green)
 <!--
+Fact
+
 **bepitulaz/bepitulaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
