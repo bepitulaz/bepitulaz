@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Asep and I live in Bali, Indonesia. I'm a web developer and an indie hacker.
+My name is Asep and I live in Bali, Indonesia. I'm a software and web developer.
 
 ### 🎯 Current focus
 
-Working on making [the immigration and relocation process] easy.
+Working on making [the immigration and relocation process](https://jobbatical.com) easy.
 
 #### 🔭 My products
 
