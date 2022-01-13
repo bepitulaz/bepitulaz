@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Asep and I live in Bali, Indonesia. I'm a software and web developer.
+My name is Asep and I live in Tallinn, Estonia. I'm a software and web developer.
 
 ### 🎯 Current focus
 
@@ -9,6 +9,7 @@ Working on making [the immigration and relocation process](https://jobbatical.co
 #### 🔭 My products
 
 - [Tania](https://usetania.org) an open source farm management software.
+- [A New Life](https://open.spotify.com/album/1f5KJowOd4hOtrEN7Tp8ET?si=fMQcS8BMQ3iJEX2hAEFfmA) a generative and programmable music. My debut single.
 
 #### ⚡ My favourite programming languages
 
