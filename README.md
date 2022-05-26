@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Asep and I live in Tallinn, Estonia. I'm a software and web developer.
+My name is Asep and I live in Tallinn, Estonia. I'm a software engineer and musician.
 
 ### 🎯 Current focus
 
@@ -9,7 +9,11 @@ Working on making [the immigration and relocation process](https://jobbatical.co
 #### 🔭 My products
 
 - [Tania](https://usetania.org) an open source farm management software.
-- [A New Life](https://open.spotify.com/album/1f5KJowOd4hOtrEN7Tp8ET?si=fMQcS8BMQ3iJEX2hAEFfmA) a generative and programmable music. My debut single.
+
+#### ♫ Discography
+- [A New Life](https://artists.landr.com/692531292711) a generative and programmable music. My debut single.
+- [People Just Want Peace](https://artists.landr.com/692531433367). The second single.
+- [The Enlightening Moment](https://artists.landr.com/692531599346). My first EP.
 
 #### ⚡ My favourite programming languages
 
