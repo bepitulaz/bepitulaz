@@ -9,6 +9,7 @@ Working on making [the immigration and relocation process](https://jobbatical.co
 #### 🔭 My products
 
 - [Tania](https://usetania.org) an open source farm management software.
+- [Live In Estonia](https://www.liveinestonia.com) a photo blog about living in Estonia.
 
 #### ♫ Discography
 - [A New Life](https://artists.landr.com/692531292711) a generative and programmable music. My debut single.
