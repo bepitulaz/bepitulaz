@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-My name is Asep and I live in Tallinn, Estonia. I'm a software engineer and musician.
+My name is Asep and I live in Tallinn, Estonia. I'm a software engineer, landscape photographer, and musician.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U1DGY5I)
 
 ### 🎯 Current focus
 
-Working on making [the immigration and relocation process](https://jobbatical.com) easy.
+Working as a full-stack developer on making [the immigration and relocation process](https://jobbatical.com) easy.
 
 #### 🔭 My products
 
