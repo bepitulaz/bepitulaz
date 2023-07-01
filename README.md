@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name is Asep and I live in Tallinn, Estonia. I'm a software engineer, landscape photographer, and musician.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U6U1DGY5I)
+My name is Asep and I live in Tallinn, Estonia. I'm a software engineer, amateur photographer, and musician.
 
 ### 🎯 Current focus
 
@@ -12,24 +10,31 @@ Working as a full-stack developer on making [the immigration and relocation proc
 
 - [Tania](https://usetania.org) an open source farm management software.
 - [Live In Estonia](https://www.liveinestonia.com) a photo blog about living in Estonia.
+- [Sõnastik](https://www.sonastik.ee) a browser extension to assist you learning the Estonian language.
 
-#### ♫ Discography
-- [A New Life](https://artists.landr.com/692531292711) a generative and programmable music. My debut single.
-- [People Just Want Peace](https://artists.landr.com/692531433367). The second single.
-- [The Enlightening Moment](https://artists.landr.com/692531599346). My first EP.
+#### ♫ Listen my musics on
 
-#### ⚡ My favourite programming languages
+- [Spotify](https://open.spotify.com/artist/3ZluC2z0z35Pdv8Aky7qMx?si=EmZEkEaiSBKZrmd6_NbXgw)
+- [YouTube](https://www.youtube.com/@bepitulaz)
+- [Apple Music](https://music.apple.com/ee/artist/asep-bagja/1650464458)
 
-- Ruby
-- Rust
-- JavaScript (I have a mixed feeling with this one 🤭)
+#### ⚡ My every day programming languages
+
+- JavaScript
 - TypeScript
+- Swift
+
+I was also doing some projects in the past with these languages
+- Ruby
+- PHP
+- C
+- Clojure
 - Common Lisp
 
 #### 🌱 Areas of programming that I love to learn
 
 - Web development
-- Embedded system and IoT
+- iOS development
 - Programmable music 🎶🎶
 
 #### 📫 You can contact me at
