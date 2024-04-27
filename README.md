@@ -11,6 +11,7 @@ Working as a full-stack developer on making [the immigration and relocation proc
 - [Tania](https://usetania.org) an open source farm management software.
 - [Live In Estonia](https://www.liveinestonia.com) a photo blog about living in Estonia.
 - [Sõnastik](https://www.sonastik.ee) a browser extension to assist you learning the Estonian language.
+- [Commucycle](https://www.commucycle.com) an iOS routing app for bicycle.
 
 #### ♫ Listen my musics on
 
@@ -21,13 +22,13 @@ Working as a full-stack developer on making [the immigration and relocation proc
 #### ⚡ My every day programming languages
 
 - JavaScript
-- TypeScript
 - Swift
+- C
 
 I was also doing some projects in the past with these languages
 - Ruby
 - PHP
-- C
+- Go
 - Clojure
 - Common Lisp
 
@@ -35,6 +36,7 @@ I was also doing some projects in the past with these languages
 
 - Web development
 - iOS development
+- Embedded development -> I'm building eurorack modules
 - Programmable music 🎶🎶
 
 #### 📫 You can contact me at
