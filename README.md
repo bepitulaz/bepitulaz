@@ -8,10 +8,9 @@ Working as a full-stack developer on making [the immigration and relocation proc
 
 #### 🔭 My products
 
+- [Nanas Sound](https://www.nanassound.com) I design and manufacture hardware and software for modular synthesizer under this brand.
 - [Tania](https://usetania.org) an open source farm management software.
-- [Live In Estonia](https://www.liveinestonia.com) a photo blog about living in Estonia.
 - [Sõnastik](https://www.sonastik.ee) a browser extension to assist you learning the Estonian language.
-- [Commucycle](https://www.commucycle.com) an iOS routing app for bicycle.
 
 #### ♫ Listen my musics on
 
