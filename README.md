@@ -2,7 +2,7 @@
 
 My name is Asep and I live in Tallinn, Estonia. I'm a software engineer, amateur photographer, and musician.
 
-### 🎯 Current focus
+### 🎯 Full-time employment
 
 Working as a full-stack developer on making [the immigration and relocation process](https://jobbatical.com) easy.
 
