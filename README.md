@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-My name is Asep and I live in Tallinn, Estonia. I'm a software engineer, amateur photographer, and musician.
-
-### 🎯 Full-time employment
-
-Working as a full-stack developer on making [the immigration and relocation process](https://jobbatical.com) easy.
+My name is Asep and I live in Tallinn, Estonia. I'm a software engineer and musician.
 
 #### 🔭 My products
 
@@ -21,13 +17,14 @@ Working as a full-stack developer on making [the immigration and relocation proc
 #### ⚡ My every day programming languages
 
 - JavaScript
-- Swift
+- Elixir
 - C
 
 I was also doing some projects in the past with these languages
 - Ruby
 - PHP
 - Go
+- Swift
 - Clojure
 - Common Lisp
 
