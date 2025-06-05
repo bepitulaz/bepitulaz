@@ -18,7 +18,6 @@ My name is Asep and I live in Tallinn, Estonia. I'm a software engineer and musi
 
 - JavaScript
 - Elixir
-- C
 
 I was also doing some projects in the past with these languages
 - Ruby
