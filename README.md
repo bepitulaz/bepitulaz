@@ -4,7 +4,7 @@ My name is Asep and I live in Tallinn, Estonia. I'm a software engineer and musi
 
 #### 🔭 My products
 
-- [Nanas Sound](https://www.nanassound.com) I design and manufacture hardware and software for modular synthesizer under this brand.
+- [Nanas Sound](https://www.nanassound.com) I design and manufacture hardware and software for modular synthesizer and MIDI controller under this brand.
 - [Tania](https://usetania.org) an open source farm management software.
 - [Sõnastik](https://www.sonastik.ee) a browser extension to assist you learning the Estonian language.
 
@@ -18,19 +18,20 @@ My name is Asep and I live in Tallinn, Estonia. I'm a software engineer and musi
 
 - JavaScript
 - Elixir
+- Swift
+- C
 
 I was also doing some projects in the past with these languages
 - Ruby
 - PHP
 - Go
-- Swift
 - Clojure
 - Common Lisp
 
 #### 🌱 Areas of programming that I love to learn
 
 - Web development
-- iOS development
+- iOS and macOS development
 - Embedded development -> I'm building eurorack modules
 - Programmable music 🎶🎶
 
